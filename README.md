@@ -1,4 +1,5 @@
- E-Commerce Automation with Selenium
+
+E-Commerce Automation with Selenium
 
 This project automates an end-to-end purchase flow on [Rahul Shetty's Angular practice site](https://rahulshettyacademy.com/angularpractice/) using Selenium WebDriver in Python.
 
@@ -12,7 +13,7 @@ What It Does
 - Accepts terms and places the order
 - Verifies success message: `"Success! Thank you!"`
 
- Technologies Used
+Technologies Used
 
 - Python
 - Selenium WebDriver
@@ -20,35 +21,7 @@ What It Does
 - XPath & CSS Selectors
 - Explicit and Implicit Waits
 
- Setup Instructions
-
-1. **Install dependencies**  
-   Make sure you have Python installed, then run:
-   ```bash
-   pip install selenium
-# 🛒 E-Commerce Automation with Selenium
-
-This project automates an end-to-end purchase flow on [Rahul Shetty's Angular practice site](https://rahulshettyacademy.com/angularpractice/) using Selenium WebDriver in Python.
-
-## 🚀 What It Does
-
-- Launches Chrome browser
-- Navigates to the shop section
-- Selects a product ("Blackberry") and adds it to the cart
-- Proceeds to checkout
-- Enters country details and selects "India"
-- Accepts terms and places the order
-- Verifies success message: `"Success! Thank you!"`
-
-## 🧰 Technologies Used
-
-- Python
-- Selenium WebDriver
-- ChromeDriver
-- XPath & CSS Selectors
-- Explicit and Implicit Waits
-
-## 📦 Setup Instructions
+Setup Instructions
 
 1. **Install dependencies**  
    Make sure you have Python installed, then run:
@@ -75,6 +48,7 @@ Expected Output:
  Author:
 Balaji Venkatesh
 Passionate about automation, clean code, and making technical workflows accessible to all.
+
 
 
 
