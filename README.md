@@ -135,3 +135,28 @@ Passionate about automation, clean code, and making technical workflows accessib
 
 
 >>>>>>> aab3a4af305868f646e292556e5a40781eee8636
+>>>>>>> 
+# Selenium Form Submission Automation
+This project automates the Angular form on Rahul Shetty Academy's demo site using Selenium WebDriver.  
+It fills out user details, selects dropdowns and radio buttons, submits the form, and validates the success message.
+
+- Python 3.12
+- Selenium WebDriver
+- ChromeDriver
+- 
+- ## Installation
+
+```bash
+pip install selenium
+
+#### 5. **How to Run**
+```markdown
+## Usage
+
+```bash
+python Form-Submission.py
+
+#### 6. **Output Example**
+```markdown
+## Sample Output
+
